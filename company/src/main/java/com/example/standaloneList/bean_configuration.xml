@@ -11,7 +11,7 @@
     <value>Virat Kohli</value>
     <value>M S Dhoni</value>
     <value>Rohit Sharma</value>
-    <value>Jasprit Bumrah</value>
+    <value>Jasprit Bumrah xyz</value>
 </util:list>
 	<bean id="cricket" class="com.example.standaloneList.Cricket" >
         <property name="players" ref="player-list"></property>
